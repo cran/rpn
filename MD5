@@ -1,0 +1,7 @@
+d05dda2bcf1d7ab98e6da54d877d17ee *DESCRIPTION
+75ba4bad6039ffb4d05cae82ae8be5dc *LICENSE
+1b7c45ef74b79499f1cef8598cd86499 *NAMESPACE
+806deff69482973cde08bb904565b98d *R/rpn.R
+ab85b96c45d9d3670d43adaabcb4d5d8 *R/zzz.R
+254a6e1532fc96a3a79914baf276fa08 *man/rpn.Rd
+3d9a057b9db974048034a6134588350d *tests/testthat/test_rpn.R
